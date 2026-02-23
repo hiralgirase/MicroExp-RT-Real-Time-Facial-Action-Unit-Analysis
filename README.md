@@ -14,7 +14,7 @@ response modeling, and behavioral analysis using facial dynamics.
 
 ------------------------------------------------------------------------
 
-## 📂 Dataset
+## Dataset
 
 The dataset used in this project is publicly available on Kaggle:
 
