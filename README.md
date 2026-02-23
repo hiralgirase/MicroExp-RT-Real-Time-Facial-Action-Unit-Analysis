@@ -56,7 +56,7 @@ requirements.txt └── README.md
 
 1.  Clone Repository
 
-git clone https://github.com/your-username/MicroExp-RT.git cd
+git clone https://github.com/hiralgirase/MicroExp-RT.git cd
 MicroExp-RT
 
 2.  Install Dependencies
