@@ -14,6 +14,22 @@ response modeling, and behavioral analysis using facial dynamics.
 
 ------------------------------------------------------------------------
 
+## 📂 Dataset
+
+The dataset used in this project is publicly available on Kaggle:
+
+🔗 **Facial AU and Emotion Dataset (Py-Feat)**  
+https://www.kaggle.com/datasets/hiralgirase/facial-au-and-emotion-dataset-py-feat
+
+The dataset includes:
+- Frame-level Facial Action Unit (AU) intensities
+- Emotion probability distributions
+- Processed result visualizations
+- Structured CSV outputs for temporal analysis
+
+----------------------------------------------------------------------
+
+
 ## Objectives
 
 -   Extract frame-level facial Action Unit intensities\
